@@ -1,0 +1,2 @@
+# CS50x
+Learnings on CS50x
